@@ -20,4 +20,5 @@ Video lessons
 - [ ] 13
 - [ ] 14
 - [ ] 15
-- [ ] \(Optional) 16
+- [ ] 16
+- [ ] \(Optional) 17
