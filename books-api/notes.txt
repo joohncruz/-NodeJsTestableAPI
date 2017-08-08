@@ -1,0 +1,13 @@
+Iniciando a api.
+
+Inicialmente utilize o npm init basico, vamos utilizar babel como transpiler e express como servidor web com isso execute:
+
+npm install babel babel-cli babel-preset-es2015 --save
+npm install express --save
+
+TESTE
+
+npm install mocha chai supertest --save-dev
+
+
+https://www.youtube.com/watch?v=arVY-N0RNPQ#t=85.22322
